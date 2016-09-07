@@ -1,24 +1,9 @@
-# README
+#Flash Cards
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+STATUS: Alpha
 
-Things you may want to cover:
+An online Anki Style flash card app.
 
-* Ruby version
+I like the idea of Anki style studying, but find the current desktop app clunky and outdated.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Eventually this will be a web app, with companion mobile apps.
